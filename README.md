@@ -1,2 +1,2 @@
-# util-log
+# utils-log
 Utility classes for application logging
